@@ -3070,9 +3070,21 @@ padding: 20px;
 
 }
 
-#iconbox{
 
 
+.imgproject{
+
+width: 100%;
+max-width: 100%;
+
+ 
 	
+
+}
+
+div#logo img{
+
+    max-width: 30%;
+    height: autopx;
 
 }
