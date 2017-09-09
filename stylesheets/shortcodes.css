@@ -25,7 +25,7 @@
     display: block;
     position: relative;
     padding: 100px 0;
-    padding-bottom: inherit;    
+     
 }
 
 .flat-row.row-small {
@@ -144,7 +144,7 @@ body.style-color {
 
 .margin-top-30 {
     margin-top: 30px;
-    padding-bottom: 20px;
+    
 }
 
 .font-size-30 {
@@ -1798,4 +1798,10 @@ body.style-color {
     opacity:0.1
   }
 }
-
+@media (max-width:768px)
+{
+	.flat-button.style-v1
+	{
+		margin-bottom: 27px;
+	}
+}

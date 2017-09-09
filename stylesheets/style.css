@@ -168,11 +168,12 @@
 }
 
 body {
-	font: 15px/27px "Poppins", sans-serif;
+	font: 15px/27px "Poppins",sans-serif;
 	font-weight: 300;
 	background-color: #fff;		
 	color: #7f7f7f;
 }
+
 
 a {		
 	color: #f9bf3b;
@@ -224,8 +225,11 @@ img {
 }
 
 b, strong {
-	font-weight: 900;
+	font-weight: 600;
+    color: #f9bf3b;
 }
+
+
 
 .entry-page p {
 	margin-bottom: 25px;
@@ -2162,6 +2166,7 @@ blockquote .whisper {
 	margin-bottom: 30px;
 	font-size: 20px;
 	font-weight: 500;
+	text-align: center;
 }
 
 .footer .widget ul li a {
@@ -2344,10 +2349,11 @@ blockquote .whisper {
 }
 
 .widget.widget-instagram ul li {
-	width: 25%;
+	width: 15%;
 	float: left;
 	padding: 0 5px;
 	margin-bottom: 10px;
+	padding-left:50px;
 }
 
 .images-hover {
@@ -3081,10 +3087,81 @@ max-width: 100%;
 	
 
 }
+#textcomp
+{
+	margin-top:55px;
+}
+@media (max-width:768px)
+{
+	.btn-menu{
+			    position: absolute;
+				top: 0;
+				right: 0;
+		
+	}
+	
+		  .footer-widgets .widget-categories ul li a:before {
+
+    content: '' !important;
+}
+
+.footer-widgets .widget-categories ul.style1 {
+    text-align: center !important;
+	float:none;
+	padding:0px !important;
+}
+}
+@media only screen and (max-width:1024px) and (min-width:863px)  
+{
+	.widget.widget-instagram ul li
+	{
+		width: 15%;
+    float: left;
+    padding: 0 5px;
+    margin-bottom: 10px;
+    padding-left: 40px;
+	}
+	
+}
+@media (min-width: 768px)
+{
+	.col-sm-4 {
+	width: 33.333333%;
+    padding: 5px;
+	}
+}
+
+@media screen 
+  and (min-width: 320px) 
+  and (max-width: 767px) {
+	  .footer-widgets .widget-categories ul li a:before {
+
+	  content: '' !important; 
+}
+
+.footer-widgets .widget-categories ul.style1 {
+    text-align: center !important;
+	float:none;
+	padding:0px !important;
+}
+
+	
+	
+  }
+@media (max-width:1024px)
+{
+	#mainnav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 0%;
+}
+}
+
 
 div#logo img{
 
     max-width: 30%;
     height: autopx;
-
 }
