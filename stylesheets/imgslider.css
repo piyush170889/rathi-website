@@ -15,7 +15,7 @@
   border-radius: 23px 23px 23px 23px;
   height: 40px;
   width : 40px;
-  margin-top: 30px
+  margin-top: 42px;
 }
 /* Next button  */
 .media-carousel .carousel-control.right 
@@ -27,7 +27,7 @@
   border-radius: 23px 23px 23px 23px;
   height: 40px;
   width : 40px;
-  margin-top: 30px
+  margin-top: 42px;
 }
 /* Changes the position of the indicators */
 .media-carousel .carousel-indicators 
@@ -52,3 +52,20 @@
     height: 125px;
 }
 /* End carousel */
+
+.imgbanner{
+
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto;
+}
+
+.pad-zero
+{
+  padding:0;
+}
+
+.
+
+
+
