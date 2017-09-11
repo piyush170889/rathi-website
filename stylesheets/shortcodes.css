@@ -35,7 +35,7 @@
 
  
 .flat-row.row-small {
-    padding: 95px 0 88px;
+        padding: 95px 0 88px 100px;
 }
 
 .flat-row.row-flat-counter {
@@ -1182,17 +1182,18 @@ body.style-color {
 
 .flat-reviews .item .title-testimonial .thumb-title img {
     border-radius: 50%;
-    margin: -60% 22px 0 0;
+    margin: -10% 10px 0 0;
 }
 
 .flat-reviews .item .title-testimonial .thumb-title,
 .flat-reviews .item .title-testimonial .post-title {
-    display: inline-block;
+    display: inline-block;text-align: center;
 }
 
 .flat-reviews .item .title-testimonial .post-title {
     overflow: hidden;
-    text-align: left;
+    text-align: center;
+    padding-top: 15px;
 }
 
 .flat-reviews .item .title-testimonial .post-title .title-post {
