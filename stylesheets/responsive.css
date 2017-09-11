@@ -890,3 +890,8 @@
 
 }
 
+@media only screen and (max-width: 320px)
+{
+		.widget.widget-instagram ul li {
+				width: 67px;}
+}

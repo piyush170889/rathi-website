@@ -286,3 +286,81 @@
 .owl-theme .owl-controls .owl-nav div.owl-next:before {    
     content: "\f105";    
 }  
+
+@media (min-width:320px) and (max-width:480px)
+{
+#banhead {
+    position: absolute;
+    color: #fdfdfd;
+    top: 2.5%;
+    font-size: 25px;
+    font-weight: bold;
+    width: 100%;
+}
+}
+@media (min-width:481px) and (max-width:540px)
+{
+	#banhead {
+    position: absolute;
+    color: #fff;
+    top: 4%;
+    font-size: 25px;
+    font-weight: bold;
+    width: 100%;
+}
+}
+@media (min-width:541px) and (max-width:690px)
+{
+	#banhead {
+    position: absolute;
+    color: #fff;
+    top: 5%;
+    font-size: 30px;
+    font-weight: bold;
+    width: 100%;
+}
+}
+@media (min-width:768px) and (max-width:991px)
+{
+	#banhead {
+    position: absolute;
+    color: #fff;
+    top: 8.5%;
+    font-size: 40px;
+    font-weight: 900;
+    width: 100%;
+}
+}
+@media (min-width:992px) and (max-width:1200px)
+{
+	#banhead {
+    position: absolute;
+    color: #fff;
+    top: 14%;
+    font-size: 40px;
+    font-weight: 800;
+    width: 100%;
+}
+}
+@media (min-width:1300px) and (max-width:1800px)
+{
+	#banhead {
+    position: absolute;
+    color: #fff;
+    top: 19%;
+    font-size: 65px;
+    font-weight: 800;
+    width: 100%;
+}
+}
+@media (min-width:1801px) and (max-width:2500px)
+{
+	#banhead {
+    position: absolute;
+    color: #fff;
+    top: 24%;
+    font-size: 65px;
+    font-weight: 800;
+    width: 100%;
+}
+}

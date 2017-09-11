@@ -3158,7 +3158,12 @@ max-width: 100%;
     right: 0%;
 }
 }
-
+@media (max-width:768px) and (min-width:768px)
+{
+	.widget.widget-instagram ul {
+    margin: 0 -5px;
+    margin-left: 170px;}
+}
 
 div#logo img{
 
