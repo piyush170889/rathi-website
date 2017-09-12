@@ -638,7 +638,7 @@ h4 {
 #mainnav .menu .has-sub:hover:before,
 #mainnav > ul > li > a:hover,
 #mainnav > ul > li.home > a {
-    color: #f9bf3b;
+    color: white;
 }
 
 #mainnav > ul > li > a:hover {
