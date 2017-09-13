@@ -176,7 +176,7 @@ body {
 
 
 a {		
-	color: #ff6b36;
+	color: #ff7636;
 	text-decoration: none;
 	-webkit-transition: all 0.3s ease-in-out;
 	   -moz-transition: all 0.3s ease-in-out;
@@ -187,7 +187,7 @@ a {
 
 a:hover,
 a:focus {
-	color: #f9bf3b;
+	color: #ff7636;
 	text-decoration: none;
 	outline: 0;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -226,7 +226,7 @@ img {
 
 b, strong {
 	font-weight: 600;
-    color: #ff6b36;
+    color: #ff7636;
 }
 
 
@@ -427,7 +427,7 @@ h4 {
 	top: 10px;
 	font-family: FontAwesome;
 	content: "\f095";
-	color: #ff6b36;
+	color: #ff7636;
 	font-size: 14px;
 }
 
@@ -443,7 +443,7 @@ h4 {
 }
 
 .flat-information > li > a:hover {
-	color: #ff6b36;	
+	color: #ff7636;	
 }
 
 /* Social-links
@@ -463,7 +463,7 @@ h4 {
 }
 
 .social-links a:hover {
-	color: #ff6b36;
+	color: #ff7636;
 }
 
 /* Header
@@ -541,7 +541,7 @@ h4 {
 	line-height: 20px;
 	font-family: "Poppins",sans-serif;
 	font-size: 10px;
-	background-color: #ff6b36;
+	background-color: #ff7636;
 	color: #fff;
 	-webkit-border-radius: 50%;
 	   -moz-border-radius: 50%;
@@ -572,7 +572,7 @@ h4 {
 /* Header Fix */
 .header-sticky .wrap-slider .header {
 	position: fixed;
-	background-color: #ff6b36;
+	background-color: #ff7636;
 }
 
 .header.downscrolled {	
@@ -785,7 +785,7 @@ h4 {
 }
 
 #mainnav ul.submenu > li > a:hover {
-	color: #ff6b36;
+	color: #ff7636;
 }
 
 #mainnav ul.submenu > li.sub-parent:hover::after {
@@ -1074,7 +1074,7 @@ h4 {
 }
 
 .wrap-page-title1 .breadcrumbs ul li a {
-	color: #ff6b36;
+	color: #ff7636;
 }
 
 /* Breadcrumbs
@@ -1235,14 +1235,14 @@ article.entry {
 }
 
 .entry .content-post ul li a:hover {
-	color: #ff6b36;
+	color: #ff7636;
 }
 
 .entry .content-post a.more {
 	font-family: "Montserrat", sans-serif;
 	font-size: 14px;
 	line-height: 23px;
-    color: #ff6b36;
+    color: #ff7636;
     font-weight: 500;
     display: block;
     text-transform: uppercase;
@@ -1485,7 +1485,7 @@ blockquote .whisper {
 }
 
 .blog-single .entry .wrap-share .category-post li a:hover {
-	color: #ff6b36;
+	color: #ff7636;
 }
 
 /* Share */
@@ -1509,7 +1509,7 @@ blockquote .whisper {
 }
 
 .wrap-share .share-post ul li a:hover {
-	color: #ff6b36;
+	color: #ff7636;
 }
 
 /* author */
@@ -1641,7 +1641,7 @@ blockquote .whisper {
 }
 
 .blog-single .comment-post .comment-detail .comment-author a:hover {
-	color: #ff6b36;
+	color: #ff7636;
 }
 
 .blog-single .comment-post .comment-detail .comment-date a {
@@ -1652,7 +1652,7 @@ blockquote .whisper {
 }
 
 .blog-single .comment-post .comment-detail .comment-date a:hover {
-	color: #ff6b36;
+	color: #ff7636;
 }
 
 .blog-single .comment-post .comment-list-wrap {
@@ -1771,7 +1771,7 @@ blockquote .whisper {
 }
 
 .blog-single .comment-post .comment-detail .comment-reply:hover {
-	background-color: #ff6b36;
+	background-color: #ff7636;
 	color: #333
 }
 
@@ -1871,7 +1871,7 @@ blockquote .whisper {
 }
 
 .widget-categories ul li a:hover {
-	color: #ff6b36;
+	color: #ff7636;
 }
 
 /* widget-recent-posts */
@@ -1900,7 +1900,7 @@ blockquote .whisper {
 }
 
 .widget .recent-posts li .text a:hover {
-	color: #ff6b36;
+	color: #ff7636;
 }
 
 .widget .recent-posts li .text p {
@@ -1936,7 +1936,7 @@ blockquote .whisper {
 }
 
 .widget-archives ul li a:hover {
-	color: #ff6b36;
+	color: #ff7636;
 }
 
 .widget-archives ul li span {
@@ -2174,7 +2174,7 @@ blockquote .whisper {
 }
 
 .footer .widget ul li a:hover {
-	color: #ff6b36;
+	color: #ff7636;
 }
 
 .footer .widget-text .textwidget p {
@@ -2513,12 +2513,12 @@ blockquote .whisper {
 .blog-pagination .flat-pagination li a:hover ,
 .blog-pagination .flat-pagination li.active a{
 	color: #fff;
-	background-color: #ff6b36;
-	border-color: #ff6b36;
+	background-color: #ff7636;
+	border-color: #ff7636;
 }
 
 .blog-pagination .flat-pagination li:hover {
-	border-color: #ff6b36;
+	border-color: #ff7636;
 }
 
 .blog-pagination .flat-pagination li.next a:hover {
@@ -2568,7 +2568,7 @@ blockquote .whisper {
     cursor: pointer;
     z-index: 1;
     overflow: hidden;
-    background-color: #ff6b36;
+    background-color: #ff7636;
     border-radius: 3px;    
 }
 
@@ -2629,7 +2629,7 @@ blockquote .whisper {
 }
 
 .bottom .container-bottom span a {
-	color: #ff6b36;
+	color: #ff7636;
 }
 
 .container-bottom .copyright {
@@ -2674,7 +2674,7 @@ blockquote .whisper {
 	position: absolute;
 	left: 0;
 	top: 0;
-	background-color: #ff6b36;
+	background-color: #ff7636;
 	width: 100%;
 	height: 100%;	
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
@@ -2943,7 +2943,7 @@ blockquote .whisper {
 	padding: 0;	
 	width: 30px;
 	height: 30px;
-	background-color: #ff6b36;	
+	background-color: #ff7636;	
 	display: inline-block;
 	margin-right: 10px;	
 }

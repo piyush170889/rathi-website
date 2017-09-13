@@ -16,8 +16,8 @@ form input[type="submit"]
 	text-align:center;
 	margin-left:350px;
 	margin-top:5px;
-	background-color:#ff6b36;
-	border:1px solid #ff6b36;
+	background-color:#ff7636;
+	border:1px solid #ff7636;
 	color:white;
 	width:130px;
 	height:35px;
@@ -36,4 +36,9 @@ form input[type="text"]
 form input[type="email"]
 {
 	width:450px;
+}
+#sub1
+{
+	padding:8px;
+	margin-top:15px;
 }
