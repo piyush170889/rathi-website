@@ -115,7 +115,7 @@ body.style-color {
 }
 
 .flat-button.style-v1 {
-    background-color: #f9bf3b;
+    background-color: #ff6b36;
     color: #fff;
     -webkit-transition: all 0.3s ease-in-out;
        -moz-transition: all 0.3s ease-in-out;
@@ -378,7 +378,7 @@ body.style-color {
     height: 100%;
     border-radius: 50%;
     z-index: 1;
-    background: #f9bf3b;
+    background: #ff6b36;
     -webkit-transform: scale(0);
     -ms-transform: scale(0);
     transform: scale(0);
@@ -418,8 +418,8 @@ body.style-color {
 
 .flat-icon .circle .box-header {
     position: relative;
-    background-color: #f9bf3b;
-    border: 1px solid #f9bf3b;
+    background-color: #ff6b36;
+    border: 1px solid #ff6b36;
     width: 100px;
     height: 100px;
     border-radius: 50%;
@@ -435,7 +435,7 @@ body.style-color {
 
 .flat-icon .circle:hover .box-header {
     background-color: transparent;
-    border: 1px solid #f9bf3b;
+    border: 1px solid #ff6b36;
     border-radius: 50%;
     opacity: 1;
     -webkit-transition: all 0.3s ease-in-out;
@@ -490,7 +490,7 @@ body.style-color {
 }
 
 .iconbox1.style-3:hover {
-    background-color: #f9bf3b;
+    background-color: #ff6b36;
 }
 
 .iconbox1.style-3 .box-header:after {
@@ -629,7 +629,7 @@ body.style-color {
 
 .flat-cooperation .post .post-about .read-more {
     position: relative;
-    color: #f9bf3b;
+    color: #ff6b36;
     font-size: 13px;
     letter-spacing: 2.5px;
     font-family: "Poppins", sans-serif;
@@ -644,7 +644,7 @@ body.style-color {
     display: block;
     width: 100%;
     height: 1px;
-    background: #f9bf3b;
+    background: #ff6b36;
     font-weight: 400;
     transition: width .3s;
 }
@@ -679,7 +679,7 @@ body.style-color {
 }
 
 .flat-portfolio .item .overlay {
-    background-color: #f9bf3b;
+    background-color: #ff6b36;
     height: 100px;    
     width: 350px;
     opacity: 0;
@@ -834,7 +834,7 @@ body.style-color {
 
 .flat-portfolio .portfolio-filter > li a:hover,
 .flat-portfolio .portfolio-filter > li.active a {
-    color: #f9bf3b;
+    color: #ff6b36;
 }
 
 /* V1 */
@@ -902,7 +902,7 @@ body.style-color {
 }
 
 .flat-portfolio .portfolio-details.v1 ul li a:hover {
-    color: #f9bf3b;
+    color: #ff6b36;
 }
 
 /* V3 */
@@ -933,7 +933,7 @@ body.style-color {
     font-family: "Montserrat", sans-serif;
     font-size: 14px;
     line-height: 26px;
-    color: #f9bf3b;
+    color: #ff6b36;
     text-decoration: underline;
     text-transform: uppercase;
 }
@@ -1137,7 +1137,7 @@ body.style-color {
 }
 
 .navigation.post-navigation .nav-links li a:hover:after {
-    background-color: #f9bf3b;
+    background-color: #ff6b36;
 }
 
 .navigation.post-navigation .nav-links li.next-post {
@@ -1159,7 +1159,7 @@ body.style-color {
 }
 
 .navigation.post-navigation .nav-links span a {
-    color: #f9bf3b;
+    color: #ff6b36;
 }
 
 .navigation.post-navigation .nav-links span a:hover {
@@ -1238,7 +1238,7 @@ body.style-color {
 
 .flat-reviews .owl-theme .owl-dots .owl-dot.active span,
 .flat-reviews .owl-theme .owl-dots .owl-dot:hover span {
-    background-color: #f9bf3b;
+    background-color: #ff6b36;
 }
 
 /* Flat-latest-post
@@ -1314,7 +1314,7 @@ body.style-color {
 .flat-suggestions textarea:focus,
 .flat-suggestions input[type="text"]:focus {
     border: none;
-    border-bottom: 2px solid #f9bf3b;
+    border-bottom: 2px solid #ff6b36;
 }
 
 .flat-suggestions textarea {
@@ -1385,8 +1385,8 @@ body.style-color {
     font-family: "FontAwesome";
     content: "\f041"; 
     font-size: 20px;
-    color: #f9bf3b;
-    border: 2px solid #f9bf3b;
+    color: #ff6b36;
+    border: 2px solid #ff6b36;
     border-radius: 50%;
     width: 50px;
     height: 50px;
@@ -1494,7 +1494,7 @@ body.style-color {
     display: block;
     width: 40px;
     height: 40px;
-    background-color: #f9bf3b;
+    background-color: #ff6b36;
     text-align: center;
     line-height: 40px;
     color: #fff;
@@ -1565,7 +1565,7 @@ body.style-color {
     position: absolute;
     top: 0;
     left: 20px;
-    background: #f9bf3b;
+    background: #ff6b36;
     width: 60px;
     height: 5px;
     z-index: 10;

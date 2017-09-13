@@ -1,0 +1,39 @@
+body {
+	font: 15px/27px "Poppins",sans-serif;
+	font-weight: 300;
+	background-color: #fff;		
+	color: black;
+	padding-top:40px;
+	
+}
+form
+{
+	padding-bottom:50px;
+	
+}
+form input[type="submit"]
+{
+	text-align:center;
+	margin-left:350px;
+	margin-top:5px;
+	background-color:#ff6b36;
+	border:1px solid #ff6b36;
+	color:white;
+	width:130px;
+	height:35px;
+
+}
+form input[type="submit"]:hover
+{
+	
+	background-color:black;
+	border:1px solid black;
+}
+form input[type="text"]
+{
+	width:450px;
+}
+form input[type="email"]
+{
+	width:450px;
+}
