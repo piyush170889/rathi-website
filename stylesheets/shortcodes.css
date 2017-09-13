@@ -486,7 +486,8 @@ body.style-color {
        -moz-transition: all 0.3s ease-in-out;
         -ms-transition: all 0.3s ease-in-out;
          -o-transition: all 0.3s ease-in-out;
-            transition: all 0.3s ease-in-out;  
+            transition: all 0.3s ease-in-out; 
+            padding: 6px; 
 }
 
 .iconbox1.style-3:hover {
