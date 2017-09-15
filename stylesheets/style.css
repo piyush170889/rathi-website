@@ -2171,6 +2171,7 @@ blockquote .whisper {
 
 .footer .widget ul li a {
 	color: #7f7f7f;
+	display: block;
 }
 
 .footer .widget ul li a:hover {
@@ -2282,7 +2283,7 @@ blockquote .whisper {
 }
 
 .footer-widgets .widget-categories ul li a:hover {
-	color: #f9bf3b;
+	color: #ff7636;
 }
 
 /* Footer widget tiwtter */
@@ -2351,9 +2352,10 @@ blockquote .whisper {
 .widget.widget-instagram ul li {
 	width: 15%;
 	float: left;
-	padding: 0 5px;
+	padding:15px;
 	margin-bottom: 10px;
 	padding-left:50px;
+	display: block;
 }
 
 .images-hover {

@@ -213,7 +213,7 @@ hr {
 
 button.accordion {
     background-color:transparent;
-    color: #444;
+    color: white;
     cursor: pointer;
     padding: 18px;
     width: 100%;
@@ -229,6 +229,7 @@ button.accordion {
 
 button.accordion.active, button.accordion:hover {
     background-color: #fff;
+    color: black;
 }
 
 div.panel {
